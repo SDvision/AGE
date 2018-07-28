@@ -8,6 +8,9 @@ import kotlinx.android.synthetic.main.activity_main.*
 import java.time.Clock
 import java.util.*
 
+/**
+ * Main activity
+ * */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
