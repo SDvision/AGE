@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AGE</string>
+    <string name="welcome_to_age_calculator">Welcome To Age Calculator</string>
+    <string name="enter_your_age_here">Enter your age here</string>
+</resources>
